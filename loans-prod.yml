@@ -5,7 +5,7 @@ build:
 accounts:
   message: "Welcome to EazyBank account related local APIs"
   contactDetails:
-    name: "Suresh Saud - Prod QA"
+    name: "Suresh Saud - Production"
     email: "ssaud@gmail.com"
   onCallSupport:
     -(671-961-9444)
