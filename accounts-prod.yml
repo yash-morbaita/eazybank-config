@@ -5,7 +5,7 @@ build:
 accounts:
   message: " Welcome to EazyBank Account Contact info"
   contactDetails:
-    name: "Yash Morbita Prod"
+    name: "Yash Morbita Production"
     email: "{cipher}af197dc986d281e9c4ea6e1fb2288d4c447f0d834f3d3e34ae11da6aa10cd14c437d2ffa9e674271ab2066d1f2779796"
   onCallSupport:
     - (617) 961 9466
