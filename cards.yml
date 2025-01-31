@@ -4,7 +4,7 @@ build:
 cards:
   message: " Welcome to EazyBank account related Card MS"
   contactDetails:
-    name: "Yash Morbita"
+    name: "Yash Morbita Dev"
     email: "ymorbita@gmail.com"
   onCallSupport:
     -(617-961-9466)
